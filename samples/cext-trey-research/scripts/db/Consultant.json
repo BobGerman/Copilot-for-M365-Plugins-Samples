@@ -15,9 +15,24 @@
                 "latitude": 42.5048,
                 "longitude": -71.1956
             },
-            "skills": [ "C#", "JavaScript", "TypeScript", "React", "Node.js" ],
-            "certifications": [ "MCSADA", "Azure Developer Associate", "MCAAF", "Azure AI Fundamentals" ],
-            "roles": [ "Project lead", "Developer", "Architect", "DevOps" ]
+            "skills": [
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "Node.js"
+            ],
+            "certifications": [
+                "MCSADA",
+                "Azure Developer Associate",
+                "MCAAF",
+                "Azure AI Fundamentals"
+            ],
+            "roles": [
+                "Project lead",
+                "Developer",
+                "Architect",
+                "DevOps"
+            ]
         },
         {
             "id": "2",
@@ -34,9 +49,16 @@
                 "latitude": 48.8264,
                 "longitude": 2.2675
             },
-            "skills": [ "Figma", "Adobe Creative Swuite", "Visual design" ],
-            "certifications": [ ],
-            "roles": [ "Designer", "Project lead" ]
+            "skills": [
+                "Figma",
+                "Adobe Creative Swuite",
+                "Visual design"
+            ],
+            "certifications": [],
+            "roles": [
+                "Architect",
+                "Project lead"
+            ]
         },
         {
             "id": "3",
@@ -53,9 +75,21 @@
                 "latitude": 40.7580,
                 "longitude": -73.9855
             },
-            "skills": [ "Python", "Java" ],
-            "certifications": [ "MCSADA", "Azure Developer Associate", "MCAAF", "Azure AI Fundamentals", "AWS Certified Developer", "Google Professional Cloud Developer" ],
-            "roles": [ "Project lead", "Developer", "Architect, DevOps" ]
+            "skills": [
+                "Python",
+                "Java"
+            ],
+            "certifications": [
+                "MCSADA",
+                "MCAAF",
+                "AWS Certified Developer",
+                "Google Professional Cloud Developer"
+            ],
+            "roles": [
+                "Project lead",
+                "Developer",
+                "Architect, DevOps"
+            ]
         },
         {
             "id": "4",
@@ -72,9 +106,23 @@
                 "latitude": 51.5194,
                 "longitude": -0.1781
             },
-            "skills": [ "TypeScript", "JavaScript", "Angular", "React", "Node.js" ],
-            "certifications": [ "MCPPSAE", "Power Platform Solution Architect Expert", "MCAF", "Azure Fundamentals" ],
-            "roles": [ "Project lead", "Developer" ]
+            "skills": [
+                "TypeScript",
+                "JavaScript",
+                "Angular",
+                "React",
+                "Node.js"
+            ],
+            "certifications": [
+                "MCPPSAE",
+                "Power Platform Solution Architect Expert",
+                "MCAF",
+                "Azure Fundamentals"
+            ],
+            "roles": [
+                "Project lead",
+                "Developer"
+            ]
         },
         {
             "id": "5",
@@ -91,9 +139,147 @@
                 "latitude": 38.6283,
                 "longitude": -90.2545
             },
-            "skills": [ "Project management", "Agile" ],
-            "certifications": [ "Project Management Professional", "PMP", "Agile Leader" ],
-            "roles": [ "Project lead" ]
-       }
+            "skills": [
+                "Project management",
+                "Agile"
+            ],
+            "certifications": [
+                "Project Management Professional",
+                "PMP",
+                "Agile Leader"
+            ],
+            "roles": [
+                "Project lead",
+                "Designer"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Rabia Williams",
+            "email": "rabia@treyresearch.com",
+            "phone": "+61 13 20 58",
+            "imageUrl": "https://developer.microsoft.com/en-us/advocates/media/profiles/rabia-williams.png",
+            "location": {
+                "street": "400 George St.",
+                "city": "Brisbane",
+                "state": "Queensland",
+                "country": "GBR",
+                "postalCode": "4000",
+                "latitude": -27.468626,
+                "longitude": 153.020719
+            },
+            "skills": [
+                "TypeScript",
+                "C#",
+                "Microsoft Teams development",
+                "SharePoint Framework",
+                "Copilot Development"
+            ],
+            "certifications": [
+                "MCSADA",
+                "Azure Developer Associate",
+                "MCAAF",
+                "Azure AI Fundamentals"
+            ],
+            "roles": [
+                "Architect",
+                "Developer"
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Garry Trinder",
+            "email": "garry@treyresearch.com",
+            "phone": "+44 344 800 2400",
+            "imageUrl": "https://developer.microsoft.com/en-us/advocates/media/profiles/garry-trinder.jpeg",
+            "location": {
+                "street": "2 Kingdom St.",
+                "city": "Paddington, London",
+                "state": "EN",
+                "country": "GBR",
+                "postalCode": "W2 6BD",
+                "latitude": 51.5194,
+                "longitude": -0.1781
+            },
+            "skills": [
+                "C#",
+                "TypeScript",
+                "JavaScript",
+                "Microsoft Graph",
+                "Angular"
+            ],
+            "certifications": [
+                "MCSADA",
+                "MCAAF",
+                "Azure AI Fundamentals"
+            ],
+            "roles": [
+                "Architect",
+                "Developer"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Sébastien Levert",
+            "phone": "+1 514-846-5800",
+            "imageUrl": "https://devblogs.microsoft.com/microsoft365dev/wp-content/uploads/sites/73/2022/11/Sebastien-Levert-Headshot-800x800-2023-1-300x300.jpg",
+            "location": {
+                "street": "200 McGill College Avenue",
+                "city": "Montreal",
+                "state": "Quebec",
+                "country": "CAN",
+                "postalCode": "W2 6BD",
+                "latitude": 45.501614,
+                "longitude": -73.570865
+            },
+            "skills": [
+                "Microsoft Graph",
+                "TypeScript",
+                "JavaScript",
+                "Angular",
+                "React",
+                "Node.js"
+            ],
+            "certifications": [
+                "MCSADA",
+                "Azure Developer Associate",
+                "MCAAF"
+            ],
+            "roles": [
+                "Architect",
+                "Developer"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Robert German",
+            "phone": "+1 617-555-5800",
+            "imageUrl": "https://developer.microsoft.com/en-us/advocates/media/profiles/bob-german.png",
+            "location": {
+                "street": "One Memorial Drive",
+                "city": "Cambridge",
+                "state": "MA",
+                "country": "US",
+                "postalCode": "02139",
+                "latitude": 42.361410,
+                "longitude": -71.081472
+            },
+            "skills": [
+                "TypeScript",
+                "JavaScript",
+                "Angular",
+                "React",
+                "Node.js"
+            ],
+            "certifications": [
+                "MCSADA",
+                "Azure Developer Associate",
+                "MCAAF"
+            ],
+            "roles": [
+                "Architect",
+                "Developer"
+            ]
+        }
     ]
 }

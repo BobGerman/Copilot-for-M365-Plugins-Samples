@@ -1,8 +1,8 @@
 {
     "rows": [
         {
-            "id": "10,1",
-            "projectId": "10",
+            "id": "9,1",
+            "projectId": "9",
             "consultantId": "1",
             "role": "Architect",
             "billable": true,
@@ -49,13 +49,13 @@
                     "hours": 120
                 }
             ],
-            "delivered": [ ]
+            "delivered": []
         },
         {
-            "id": "10,2",
-            "projectId": "10",
+            "id": "3,2",
+            "projectId": "3",
             "consultantId": "2",
-            "role": "Designer",
+            "role": "Architect",
             "billable": true,
             "rate": 100,
             "forecast": [
@@ -100,11 +100,11 @@
                     "hours": 10
                 }
             ],
-            "delivered": [ ]
+            "delivered": []
         },
         {
-            "id": "4,1",
-            "projectId": "4",
+            "id": "1,1",
+            "projectId": "1",
             "consultantId": "1",
             "role": "Developer",
             "billable": true,
@@ -151,8 +151,89 @@
                     "hours": 40
                 }
             ],
-            "delivered": [ ]
+            "delivered": []
+        },
+        {
+            "id": "10,9",
+            "projectId": "10",
+            "consultantId": "9",
+            "role": "Developer",
+            "billable": true,
+            "rate": 100,
+            "forecast": [
+                {
+                    "month": 3,
+                    "year": 2024,
+                    "hours": 80
+                },
+                {
+                    "month": 4,
+                    "year": 2024,
+                    "hours": 160
+                },
+                {
+                    "month": 5,
+                    "year": 2024,
+                    "hours": 120
+                },
+                {
+                    "month": 6,
+                    "year": 2024,
+                    "hours": 120
+                }
+            ],
+            "delivered": []
+        },
+        {
+            "id": "3,9",
+            "projectId": "3",
+            "consultantId": "9",
+            "role": "Architect",
+            "billable": true,
+            "rate": 250,
+            "forecast": [
+                {
+                    "month": 3,
+                    "year": 2024,
+                    "hours": 40
+                },
+                {
+                    "month": 4,
+                    "year": 2024,
+                    "hours": 40
+                },
+                {
+                    "month": 5,
+                    "year": 2024,
+                    "hours": 40
+                },
+                {
+                    "month": 6,
+                    "year": 2024,
+                    "hours": 40
+                },
+                {
+                    "month": 7,
+                    "year": 2024,
+                    "hours": 40
+                },
+                {
+                    "month": 8,
+                    "year": 2024,
+                    "hours": 40
+                },
+                {
+                    "month": 9,
+                    "year": 2024,
+                    "hours": 40
+                },
+                {
+                    "month": 10,
+                    "year": 2024,
+                    "hours": 40
+                }
+            ],
+            "delivered": []
         }
     ]
 }
-

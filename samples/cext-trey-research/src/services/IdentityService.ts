@@ -7,9 +7,13 @@ import { HttpRequest } from "@azure/functions";
 //   name and email but we will still use the rest of Consultant ID 1's data in the database.
 //   That way, everyone who runs the demo will share the same projects and other data.
 
-const DEFAULT_CONSULTANT_ID = '1';
-const DEFAULT_CONSULTANT_NAME = 'Avery Howard';
-const DEFAULT_CONSULTANT_EMAIL = 'avery@treyresearch.com';
+// const DEFAULT_CONSULTANT_ID = '1';
+// const DEFAULT_CONSULTANT_NAME = 'Avery Howard';
+// const DEFAULT_CONSULTANT_EMAIL = 'avery@treyresearch.com';
+
+const DEFAULT_CONSULTANT_ID = '9';
+const DEFAULT_CONSULTANT_NAME = 'Robert German';
+const DEFAULT_CONSULTANT_EMAIL = 'robby@testtestcp36599.onmicrosoft.com';
 
 let requestCounter = 0;             // Singleton to identify each request
 export default class Identity {
@@ -36,7 +40,7 @@ export default class Identity {
         } else {
             this.name = DEFAULT_CONSULTANT_NAME;
             this.email = DEFAULT_CONSULTANT_EMAIL;
-            console.log(`⭐ Request ${this.requestNumber}`);
+            // console.log(`⭐ Request ${this.requestNumber}`);
         }
     }
 
